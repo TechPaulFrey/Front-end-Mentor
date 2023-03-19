@@ -1,0 +1,43 @@
+body {
+    margin: 50px;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    
+}
+.container {
+    height: 40.625rem;
+    width: 25.625rem;
+    background-color: hsl(220, 15%, 55%);
+    position: absolute;
+    right: 600px;
+    
+}
+.container-2 {
+    height: 500px;
+    width: 350px;
+    background-color: hsl(0, 0%, 100%); 
+    margin: 70px auto;
+    border-radius: 20px;
+}
+.container-3 {
+    
+}
+.qr {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+    top: 20px;  
+}
+.p1 {
+    color: rgb(44, 121, 209);
+    
+    margin: 30px;
+    font-size: 22px;
+}
+.p2 {
+    color: hsl(212, 45%, 89%);
+    
+    margin: 30px;
+    font-size: 15px;
+}
